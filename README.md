@@ -7,3 +7,5 @@ I have addressed the following three business questions. <br />
 
 As part of study I have predicted the prices of neighborhoods considering a few features.
 You can read the my medium blog post and detailed analysis of result here. 
+
+Blog Post: https://medium.com/@mryelameli/airbnb-tokyo-expensive-and-inexpensive-locations-ba3aec202207
